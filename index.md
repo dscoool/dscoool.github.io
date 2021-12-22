@@ -8,12 +8,12 @@
 <p>He is an instructor of AI Research Center at GIST (Gwangju Institute of Science and Technology). His  interests and industrial projects include:</p>
 <!-- /wp:paragraph -->
 </br>
-<ol>
+<ul>
   <li>Corporate Loan assessment system with NLP (Sentiment Analysis)</li>
   <li>TV-CF Video Archive/e-Library meta tagging solution.</li>
   <li>Financial modelling and quant investment.</li>
   <li>Student aptitude development and IT career guidance.</li>
-</ol>
+</ul>
 
 CV <strong>[</strong></a><strong><a rel="noreferrer noopener" href="https://1drv.ms/w/s!Ahzfwi3mTuhvh6ExqfDQ-lhIOPP2qQ?e=8FVVN9" target="_blank">download</a>]</strong>
 
