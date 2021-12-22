@@ -2,7 +2,8 @@ title: JAEMIN JEONG's Homepage
 logo: 
 description: 강사 정재민 - 데이터사이언스, 파이썬, 진로직업적성
 show_downloads: true
-google_analytics:
+google_analytics: G-G3H4KZV2D8
+
 theme: jekyll-theme-minimal
 
 remote_theme: pages-themes/minimal@v0.2.0
