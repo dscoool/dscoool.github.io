@@ -1,5 +1,8 @@
 ## Introduction
 
+
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/dscoool/dscoool.github.io/main/jmjung_portrait.jpeg" alt="" class="wp-image-23"/></figure>
+
 <!-- wp:paragraph -->
 <p>Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a System Integration Consultant clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc. </p>
 <!-- /wp:paragraph -->
