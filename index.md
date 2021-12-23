@@ -8,7 +8,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>He is an instructor of AI Research Center at GIST (Gwangju Institute of Science and Technology). His  interests and industrial projects include:</p>
+<p>He is an instructor in AI Research Center at GIST (Gwangju Institute of Science and Technology). His  interests and industrial projects include:</p>
 <!-- /wp:paragraph -->
 <br/>
 <ul>
