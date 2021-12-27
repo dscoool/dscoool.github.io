@@ -1,17 +1,29 @@
 ## Introduction
 
+
+<div id="wrapper">
+    <div class="twoColumn">
+         <img src="https://raw.githubusercontent.com/dscoool/dscoool.github.io/main/jmjung_portrait.jpeg" alt="" class="wp-image-23" style="padding-left: 10px; padding-bottom: 20px;" height="155px" width= "200px" />
+    </div>
+    <div class="twoColumn">
+         <p>Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a System Integration Consultant clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc.</p>
+
+    </div>
+</div>
+  
+  
 <div id="main-container">
   <div class="container">
     <div class="box">
     </div>
     <div class="content">
-     <img src="https://raw.githubusercontent.com/dscoool/dscoool.github.io/main/jmjung_portrait.jpeg" alt="" class="wp-image-23" style="padding-left: 10px; padding-bottom: 20px;" height="155px" width= "200px" />
+     
     </div>
   </div>
   <div class="container">
     <div class="box">
     </div>
-    <div class="content">Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a System Integration Consultant clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc.</div>
+    
   </div>
 </div>
 
