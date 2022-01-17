@@ -2,7 +2,7 @@
 
 <!-- wp:paragraph -->
 
-### <p>Industrial Projects</p>
+### Industrial Projects
 
 <!-- wp:paragraph -->
 <p>(2020 – 2021) Implementation of AI-based loan application assessement system - Korea Development Bank / Sobetec / Iteyes </p>
