@@ -2,12 +2,9 @@
 
 <!-- wp:paragraph -->
 
-### Industrial Projects
+### Projects
 
-<!-- wp:paragraph -->
-<p>(2020 – 2021) Implementation of AI-based loan application assessement system - Korea Development Bank / Sobetec / Iteyes </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>(2019 - 2020) Design of 'AI based Advertising Archive System' - Korea Broadcast Advertising Corporation.</p>
-<!-- /wp:paragraph -->
+(2021.12) Coronavirus Forecast AI System, Sungkyunkwan University
+(2021.09 – 2021.02) AI based Text Analysis Loan Assessment System Development,   Korea Development Bank
+(2019.10 – 2020.02) 'AI based Advertising TV-CF Archive System  Video Archive System', Project Plan & System Plan & Sales, Korea Broadcast Advertising Corporation
+(2010.03 – 08) KOBACO TV Sales Revenue Optimisation System, Korea Broadcast Advertising Corporation
