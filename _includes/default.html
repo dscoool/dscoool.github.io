@@ -23,28 +23,26 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
 
-        <p class="Project"><a href="http://raw.githubusercontent.com/dscoool/dscoool.github.io/main/projects.md">Projects</a></p>
-        <p class="Project"><a href="https://raw.githubusercontent.com/dscoool/dscoool.github.io/main/research.md">Research</a></p>
-        <p class="Project"><a href="https://raw.githubusercontent.com/dscoool/dscoool.github.io/main/lecture.md">Lecture</a></p>
+        <a href="http://raw.githubusercontent.com/dscoool/dscoool.github.io/main/projects.md">Projects</a>
+        <a href="https://raw.githubusercontent.com/dscoool/dscoool.github.io/main/research.md">Research</a>
+        <a href="https://raw.githubusercontent.com/dscoool/dscoool.github.io/main/lecture.md">Lecture</a>
 
 <!--         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p> -->
-        {% endif %}
 
         {% if site.github.is_user_page %}
 <!--         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
         {% endif %}
 
-        {% if site.show_downloads %}
         
         <ul class="downloads">
 <!--           <li><a href=""><strong></strong></a></li> -->
           <li><a href="http://www.linkedin.com/in/jaeminjjung"><strong>Linkedin</strong></a></li>
           <li><a href="http://github.com/dscoool/gist-aix"><strong>GIST강의게시판</strong></a></li>
+          <li><a href="http://github.com/dscoool/"><strong>Github</strong></a></li>
+
         </ul>
         
-        {% endif %}
         
         
       </header>
@@ -58,6 +56,6 @@
         {% endif %}
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+<!--     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script> -->
   </body>
 </html>
