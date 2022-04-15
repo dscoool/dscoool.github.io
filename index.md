@@ -27,11 +27,12 @@ MSc. Dissertation - <TV Show rating prediction by Machine Learning Methods with 
 ### Contact 
 <!-- wp:paragraph -->
 
-정재민 (JAEMIN JEONG)
-국민대학교 소프트웨어융합대학원
-T. 010-5840-9500 
-E. [jaeminjjeong] @ [kookmin.ac.kr]
- 
+<strong>
+정재민 (JAEMIN JEONG) <br/>
+국민대학교 소프트웨어융합대학원<br/>
+T. 010-5840-9500 <br/>
+E. jaeminjjeong@kookmin.ac.kr<br/>
+    </strong>
   
   
   
