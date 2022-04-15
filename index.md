@@ -26,13 +26,12 @@ MSc. Dissertation - <TV Show rating prediction by Machine Learning Methods with 
 
 ### Contact 
 <!-- wp:paragraph -->
-<p>Jaemin Jeong, Lecturer</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Data Scientist / Lectuer<br>Mobile: +82 10 5840 9500<br>Email: [jaeminjjeong] @ [kookmin.ac.kr]</p>
-<!-- /wp:paragraph -->
-  
+정재민 (JAEMIN JEONG)
+국민대학교 소프트웨어융합대학원
+T. 010-5840-9500 
+E. [jaeminjjeong] @ [kookmin.ac.kr]
+ 
   
   
   
