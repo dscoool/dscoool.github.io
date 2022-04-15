@@ -8,13 +8,13 @@
     <div class="twoColumn">
          <p>Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a System Integration Consultant clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc.</p>
 
-<p>He is an instructor in AI Research Center at GIST (Gwangju Institute of Science and Technology). His  interests and industrial projects include:</p>
+<p>He is a lecturer in Graduate School of Software and Technology, Kookmin University. His  interests and industrial projects include:</p>
 <br/>
 <ul>
   <li>Corporate Loan assessment system with NLP (Sentiment Analysis)</li>
   <li>TV-CF Video Archive/e-Library meta tagging solution.</li>
   <li>Financial modelling and quant investment.</li>
-  <li>Student aptitude development and IT career guidance.</li>
+  <li>Student aptitude development and career guidance.</li>
 </ul>
     </div>
 </div>
@@ -30,7 +30,7 @@ MSc. Dissertation - <TV Show rating prediction by Machine Learning Methods with 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Data Scientist / Lectuer<br>Mobile: +82 10 5840 9500<br>Email: jaeminjjung at gmail.com</p>
+<p>Data Scientist / Lectuer<br>Mobile: +82 10 5840 9500<br>Email: [jaeminjjeong] @ [kookmin.ac.kr]</p>
 <!-- /wp:paragraph -->
   
   
