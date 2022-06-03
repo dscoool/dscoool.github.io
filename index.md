@@ -6,14 +6,15 @@
          <img src="https://raw.githubusercontent.com/dscoool/dscoool.github.io/main/jmjung_portrait.jpeg" alt="" class="wp-image-23" style="padding-left: 10px; padding-bottom: 20px;"/>
     </div>
     <div class="twoColumn">
-         <p>Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a System Integration Consultant clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc.</p>
+         <p>Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a System Integration Consultant clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc. He was a lecturer at Gwangju Institute of Science and Technology(2021). </p>
 
-<p>He is a lecturer in Graduate School of Software and Technology, Kookmin University. His  interests and industrial projects include:</p>
+<p>He is currently a lecturer at College of Computer Science, Kookmin University (2022). His  interests and industrial projects include:</p>
 <br/>
 <ul>
+  <li>Financial Market, Quantitative Model, Techniques for preventing humanitarian crisis, child abuse and neglection.</li> 
   <li>Corporate Loan assessment system with NLP (Sentiment Analysis)</li>
   <li>TV-CF Video Archive/e-Library meta tagging solution.</li>
-  <li>Financial modelling and quant investment.</li>
+  <li>Financial modelling and quantitative modeling & investment.</li>
   <li>Student aptitude development and career guidance.</li>
 </ul>
     </div>
